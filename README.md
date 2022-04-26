@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gavinburrowes
-- 👀 I’m interested in starting a career in the programming
+- 👀 I’m interested in starting a career in programming
 - 🌱 I’m currently learning python
 - 📫 you can reach me on gavinburrowes@hotmail.co.uk 
 
